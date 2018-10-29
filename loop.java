@@ -4,7 +4,7 @@ public class loop
 {
     public static void printPyrimid(int height) {
         for (int i = 1; i < height; i++){
-            //prints spaces (spaces are height - 1
+            //prints spaces (spaces are height - 1)
          for (int j = height - i; j > 0; j--){
              System.out.print(" "); 
             }
